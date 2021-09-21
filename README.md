@@ -4,27 +4,30 @@ This is AR based app in which there is furniture of different category like livi
 #Gallery
 
 Landing activity of application
+
 ![image](https://user-images.githubusercontent.com/61896510/134214968-ab5d3387-1d69-4b70-b92f-afde67cb20e1.png)
 
 
 different category of furniture
+
 ![image](https://user-images.githubusercontent.com/61896510/134215344-c15b8213-0454-4b74-a189-57d92b01279f.png)
 
 
 
 different types of furniture
 
-![image](https://user-images.githubusercontent.com/61896510/134215153-7e59340e-f78a-4672-942c-059ae6e9de42.png)   ![image](https://user-images.githubusercontent.com/61896510/134215231-101b46cc-6c16-4886-b336-f375a920697a.png)  
+![image](https://user-images.githubusercontent.com/61896510/134215153-7e59340e-f78a-4672-942c-059ae6e9de42.png)    ![image](https://user-images.githubusercontent.com/61896510/134215231-101b46cc-6c16-4886-b336-f375a920697a.png)  
 
 
 Detail page of particular sample of furniture
+
 ![image](https://user-images.githubusercontent.com/61896510/134215503-1934a433-b090-4ad6-bbea-204cb19aef1d.png)
 
 
 
 3D model of furniture in Augmented Reality
 
-![image](https://user-images.githubusercontent.com/61896510/134215583-97a13503-4182-466c-b4ce-0697c309ef90.png)   ![image](https://user-images.githubusercontent.com/61896510/134215655-121230dd-96f3-4465-aa82-ae719efd5de6.png)
+![image](https://user-images.githubusercontent.com/61896510/134215583-97a13503-4182-466c-b4ce-0697c309ef90.png)    ![image](https://user-images.githubusercontent.com/61896510/134215655-121230dd-96f3-4465-aa82-ae719efd5de6.png)
 
 
 
